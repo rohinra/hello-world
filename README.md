@@ -1,5 +1,4 @@
 # hello world
-<<<<<<< Updated upstream
-=======
+this is test
 this is master
->>>>>>> Stashed changes
+
